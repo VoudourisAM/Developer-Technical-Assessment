@@ -66,3 +66,6 @@ python app.py
 
 # 4️⃣ Άνοιξε στο browser ή Postman
 http://127.0.0.1:5000/tasks
+
+# 5️⃣ Για να δεις το status, άνοιξε τον παρακάτω σύνδεσμο στο browser:
+[Visualize Status](http://127.0.0.1:5000/visualize/status)
