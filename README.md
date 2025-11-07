@@ -51,6 +51,10 @@ Flask REST API for Task Management (CRUD with SQLite)
 <img width="1695" height="826" alt="Screenshot 2025-10-27 202048" src="https://github.com/user-attachments/assets/76c6c628-ec2f-4c31-a5aa-110741efa308" />
 <img width="1698" height="825" alt="Screenshot 2025-10-27 202116" src="https://github.com/user-attachments/assets/65bd17a8-4ece-4433-bc92-6ad09a44bbdd" />
 
+---
+
+6) Visualize - status
+<img width="1910" height="907" alt="Screenshot 2025-11-07 151154" src="https://github.com/user-attachments/assets/ad153cb2-2618-448b-8ddf-92c5bfccf46e" />
 
 ## ⚙️ Εγκατάσταση & Εκτέλεση
 ```bash
@@ -68,4 +72,4 @@ python app.py
 http://127.0.0.1:5000/tasks
 
 # 5️⃣ Για να δεις το status, άνοιξε τον παρακάτω σύνδεσμο στο browser:
-[Visualize Status](http://127.0.0.1:5000/visualize/status)
+http://127.0.0.1:5000/visualize/status
